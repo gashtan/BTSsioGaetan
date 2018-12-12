@@ -9,6 +9,10 @@ public class test {
 		
 		Fenetre fen = new Fenetre();
 		System.out.println("test github");
+		for(;;) {
+			System.out.println("hfuhuehguergh ihgoigerhgeorig pojfgijheriogherio^hgi îohgoierhgeriogh");
+		}
+		
 		
 
 	}
